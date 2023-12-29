@@ -52,7 +52,7 @@ body{
 }
 
 .bg{
-     background:url(o.jpg); 
+     background:url(o.jpg); //use your images
     position: absolute;
     background-size: cover;
     background-position: center;
